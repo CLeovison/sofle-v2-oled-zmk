@@ -76,7 +76,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&alt_tab'
   - INS
   - PSCRN
   - CMENU
@@ -89,7 +89,7 @@ layers:
   - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LALT
+  - Ctl+A
   - LCTRL
   - LSHFT
   - {t: ▽, type: trans}
