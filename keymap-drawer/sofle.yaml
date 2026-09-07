@@ -4,17 +4,17 @@ layers:
     Z, X, C, V, B, MUTE, PP, N, M, ',', ., /, RSHFT, LGUI, LALT, LCTRL, lower, RET, SPACE, raise, RCTRL, RALT, RGUI]
   lower:
   - '&studio_unlock'
-  - ALT F1
-  - ALT F2
-  - ALT F3
-  - ALT F4
-  - ALT F5
-  - ALT F6
-  - ALT F7
-  - ALT F8
-  - ALT F9
-  - ALT F10
-  - ALT F11
+  - Alt+F1
+  - Alt+F2
+  - Alt+F3
+  - Alt+F4
+  - Alt+F5
+  - Alt+F6
+  - Alt+F7
+  - Alt+F8
+  - Alt+F9
+  - Alt+F10
+  - Alt+F11
   - '`'
   - '1'
   - '2'
@@ -26,7 +26,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - ALT F12
+  - Alt+F12
   - {t: ▽, type: trans}
   - '!'
   - '@'
