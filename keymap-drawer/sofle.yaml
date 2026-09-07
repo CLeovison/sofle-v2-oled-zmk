@@ -76,7 +76,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&alt_tab'
+  - ALT TAB
   - INS
   - PSCRN
   - CMENU
@@ -137,7 +137,7 @@ layers:
   - ''
   - ''
   - '&studio_unlock'
-  - EP TOG
+  - EP ON
   - RGB HUD
   - RGB HUI
   - RGB SAD

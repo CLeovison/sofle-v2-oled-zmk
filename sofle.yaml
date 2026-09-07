@@ -70,7 +70,7 @@ layers:
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
-  - - {t: ▽, type: trans}
+  - - ALT TAB
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - INS
@@ -85,7 +85,7 @@ layers:
     - '0'
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
-    - LALT
+    - Ctl+A
     - LCTRL
     - LSHFT
     - {t: ▽, type: trans}
@@ -131,7 +131,7 @@ layers:
     - ''
     - ''
     - ''
-  - ['', '', EP TOG, RGB HUD, RGB HUI, RGB SAD, RGB SAI, RGB EFF, '', '']
+  - ['', '', EP ON, RGB HUD, RGB HUI, RGB SAD, RGB SAI, RGB EFF, '', '']
   - ['', '', '', '', '', RGB BRD, RGB BRI, '', '', '']
   - ['', '', '', '', '', '', '', '', '', '']
   - ['', '', RGB TOG, '', '', '', '', '', '', '']
